@@ -19,10 +19,9 @@ My goal is to **develop my skills**, create useful projects, and build a **stron
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-6d4aff?style=for-the-badge)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-6d4aff?style=for-the-badge)](mailto:mariamakour677@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/Merieem50)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0039ff?style=for-the-badge)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/mariam-akour)
 
 </div>
 
@@ -30,11 +29,11 @@ My goal is to **develop my skills**, create useful projects, and build a **stron
 
 ## 🌱 Currently Learning
 
-- Programming fundamentals (C / Python / JavaScript)
-- Web Development (HTML, CSS)
-- Algorithms & Problem Solving
-- Git & GitHub
-- Basics of UI/UX Design
+- Programming fundamentals  
+- Web Development (HTML, CSS, JavaScript)  
+- Algorithms & Problem Solving  
+- Git & GitHub  
+- Basics of UI/UX Design  
 
 ---
 
@@ -46,18 +45,10 @@ My goal is to **develop my skills**, create useful projects, and build a **stron
 
 ## 🎯 Goals
 
-- Build small projects and publish them on GitHub
-- Improve coding logic and problem-solving skills
-- Learn modern technologies step by step
-- Become a skilled and ethical software developer
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="github-snake.svg">
-</picture>
+- Build small projects and publish them on GitHub  
+- Improve coding logic and problem-solving skills  
+- Learn modern technologies step by step  
+- Become a skilled and ethical software developer  
 
 ---
 
