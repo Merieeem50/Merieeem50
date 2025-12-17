@@ -5,31 +5,53 @@
 
 <div align="center">
 
-**Mehedi Hasan** is a skilled **Full Stack Web Application Developer**, with experience in developing and building user-friendly web applications using modern technologies. He enjoys **writing clean code, solving challenging problems,** and **working with others** to build projects that are both practical and enjoyable to use. He also likes exploring **new frameworks and tools** to improve his skills and create better software.
+## 👩‍💻 Mariam Akour
+
+🎓 **Software Development & Design Student** | 🇲🇦 Morocco  
+💡 Passionate about **computer science, programming, and technology**
+
+I am a first-year university student in **software development and design**, deeply interested in **IT, coding, and modern technologies**.  
+I enjoy **learning step by step, solving problems**, and building projects that help me grow as a future developer.
+
+My goal is to **develop my skills**, create useful projects, and build a **strong and professional GitHub profile** while staying true to my values.
 
 </div>
 
 <div align="center">
-  
-[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6d4aff?style=for-the-badge)](mailto:iammehedihasan@protonmail.com)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/mahdi-al-mutaallim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0039ff?style=for-the-badge&link=https%3A%2F%2Fx.com%2Fm3h3d1ha2an)](https://m3h3d1.vercel.app)
-[![X](https://img.shields.io/badge/X%20(Twitter)-black?style=for-the-badge)](https://x.com/m3h3d1ha2an)
 
+[![Email](https://img.shields.io/badge/Email-6d4aff?style=for-the-badge)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/Merieem50)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0039ff?style=for-the-badge)](https://your-portfolio-link.com)
 
 </div>
 
-##
+---
 
-- Learning and experimenting with [**Better Auth**](https://github.com/better-auth/better-auth) for self-managed authentication
-- Building a **SaaS project called [Humin](https://github.com/m3h3d1ha2an/humin)**
-- Exploring **[tRPC](https://trpc.io/)** and **[TanStack Start](https://tanstack.com/start/latest)** for modern web development
+## 🌱 Currently Learning
 
-##
+- Programming fundamentals (C / Python / JavaScript)
+- Web Development (HTML, CSS)
+- Algorithms & Problem Solving
+- Git & GitHub
+- Basics of UI/UX Design
 
-![My Skills](https://skillicons.dev/icons?i=ts,nodejs,next,react,tailwind,redux,vite,express,postgres,prisma,mongodb,graphql,vercel,bun,pnpm&theme=dark)
+---
 
-##
+## 🛠️ Skills & Tools
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark)
+
+---
+
+## 🎯 Goals
+
+- Build small projects and publish them on GitHub
+- Improve coding logic and problem-solving skills
+- Learn modern technologies step by step
+- Become a skilled and ethical software developer
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
@@ -37,6 +59,10 @@
   <img alt="GitHub Contribution Grid Snake" src="github-snake.svg">
 </picture>
 
-##
+---
 
-<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-m3h3d1.vercel.app/?user=m3h3d1ha2an&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
+<div align="center">
+
+✨ *Learning today to build a better tomorrow* ✨
+
+</div>
