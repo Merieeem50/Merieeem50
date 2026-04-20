@@ -40,7 +40,7 @@ My goal is to **develop my skills**, create useful projects, and build a **stron
 
 ## 🛠️ Skills & Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python,c,php,sql,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python,c,php,mysql,figma&theme=dark)
 
 ---
 
