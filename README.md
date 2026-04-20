@@ -33,7 +33,8 @@ My goal is to **develop my skills**, create useful projects, and build a **stron
 - Web Development (HTML, CSS, JavaScript)  
 - Algorithms & Problem Solving  
 - Git & GitHub  
-- Basics of UI/UX Design  
+- Basics of UI/UX Design
+- AI 
 
 ---
 
